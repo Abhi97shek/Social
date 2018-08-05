@@ -1,0 +1,170 @@
+body
+{
+	background:#DBE8D7 !important;
+}
+.navbar
+{
+	background:#FF254D !important;
+	margin-bottom:5px;
+	width: 100%;
+    z-index:1;
+}
+.logout li a
+{	
+color:#000!important;	
+}
+.logout li
+{
+padding:0px;	
+}
+.logout
+{
+	margin-top:5px;
+	width:100px !important;
+	min-width:0px !important;
+	background:#DBE8D7;
+}
+.mainsection
+{
+	padding-top:59px;
+}
+.name a
+{
+	font-size:24px!important;
+	color:white;
+	font-family: 'Kaushan Script', cursive;
+	text-decoration:none;
+}
+.name
+{
+	margin-top:10px !important;
+	padding-left:37px;
+}
+nav ul
+{
+	list-style:none;
+	
+}
+nav ul li
+{
+	padding:10px 10px 0px 20px;
+}
+nav ul li a
+{
+	color:#FFF!important;
+	line-height:40px !important;
+}
+.form1
+{
+	margin-top:10px;
+}
+.form1 input[type="text"]
+{
+	width:82%;
+}
+.list
+{
+	padding-left:15%;
+}
+.leftsideparent
+{
+    position: fixed;
+    width: 250px;	
+}
+.profile_picture img
+{
+	max-height:300px;
+	max-width:100%;
+	border-radius:10px 0px 10px 0px;
+	
+}
+.leftside
+{
+	
+	margin-top:0px;
+	position:relative;
+	margin-left:0px;
+	padding-left:5px;
+	
+}
+.leftside p
+{
+	position:absolute;
+	bottom:0px;
+	left:20px;
+	color:#FFF;
+	font-size:25px;
+	font-family: 'Roboto', sans-serif;
+}
+.options
+{
+margin-top:5px;	
+}
+.options ul
+{
+	
+	list-style:none;	
+	padding-left:5px;
+}
+.options ul li
+{
+	padding:10px;
+}
+.options ul li a
+{
+	font-size:18px;
+}
+.container .showfriends
+{
+	width:80.2%;
+	background:#FFF;
+	border-radius:5px 5px 0px 0px;
+}
+.container .showfriends .friends
+{
+	width:100%;
+	border-bottom:1px solid #CCC;
+	margin-left:0px;
+	height:100px;
+}
+.imageicon img
+{
+	margin-top: 11px;
+    max-width: 81%;
+	border:2px solid #999;
+	border-radius:5px 0px 5px 0px;
+}
+.friendsinfo
+{
+	margin-top:18px;
+	padding-left:0px;
+	font-size:15px;
+	font-family: 'Roboto', sans-serif;
+}
+.sendbutton
+{
+	margin-top:32px;
+}
+.sendbutton form .sentbutton img
+{
+	display:none;
+}
+.notification
+{
+width:18px;
+height:18px;
+position:absolute;
+top: 7px;
+right: 162px;
+background:#FFF;
+float:left;
+border-radius:100%;	
+}
+.notify i
+{
+	position:relative;
+}
+.notification p
+{
+	color:#FF254D;
+}
